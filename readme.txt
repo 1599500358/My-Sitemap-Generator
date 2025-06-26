@@ -22,7 +22,7 @@ My Sitemap Generator is a fully automatic sitemap.xml generator for WordPress. I
 * Zero configuration—just activate and go
 
 == Installation ==
-1. Upload the `my-plugin.php` file to the `/wp-content/plugins/` directory.
+1. Upload the `my-sitemap-generator.php` file to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Visit https://your-domain.com/sitemap.xml to view your sitemap.
 

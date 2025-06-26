@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: My Sitemap Generator
-Plugin URI: https://yourdomain.com/my-sitemap-generator
+Plugin URI: https://github.com/1599500358/My-Sitemap-Generator
 Description: A simple WordPress plugin example with automatic sitemap.xml generation.
 Version: 1.0.0
 Author: Your Name
